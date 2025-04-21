@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ncta2\\PersonalProj\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj": {}
+    "C:\\Users\\ncta2\\PersonalProj\\Applications-Tracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ncta2\\PersonalProj\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj": {
+    "C:\\Users\\ncta2\\PersonalProj\\Applications-Tracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ncta2\\PersonalProj\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ncta2\\PersonalProj\\Applications-Tracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj",
         "projectName": "ApplicationTrackerAPI",
-        "projectPath": "C:\\Users\\ncta2\\PersonalProj\\ApplicationTracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj",
+        "projectPath": "C:\\Users\\ncta2\\PersonalProj\\Applications-Tracker\\ApplicationTrackerAPI\\ApplicationTrackerAPI.csproj",
         "packagesPath": "C:\\Users\\ncta2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ncta2\\PersonalProj\\ApplicationTracker\\ApplicationTrackerAPI\\obj\\",
+        "outputPath": "C:\\Users\\ncta2\\PersonalProj\\Applications-Tracker\\ApplicationTrackerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ncta2\\AppData\\Roaming\\NuGet\\NuGet.Config"
