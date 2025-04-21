@@ -1,0 +1,30 @@
+# .NET Core build output
+bin/
+obj/
+
+# User-specific files
+.vs/
+.idea/
+.vscode/
+
+# ASP.NET Core
+wwwroot/
+
+# npm dependencies
+node_modules/
+
+# Build output for Angular
+/dist/
+out-tsc/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Angular specific
+angular.json
+package-lock.json
